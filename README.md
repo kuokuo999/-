@@ -27,7 +27,7 @@
 
 <figure>
     <img src="https://github.com/user-attachments/assets/0a30141f-aabd-414f-bef7-d8a15fc7a6f0" width="30%">
-    <figcaption>梅爾頻率倒譜係數MFCC</figcaption>
+    <figcaption>梅爾頻率倒譜係數</figcaption>
 </figure>
 
 <img src="https://github.com/user-attachments/assets/5f542ec0-2be9-40d2-baa7-c78cad9ddfd6" width="50%">
